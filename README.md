@@ -18,3 +18,8 @@ To use this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/theme-toggle.git
+
+### 2. Clone the repository
+
+```Dashg
+git clone https://github.com/test/tes.git
